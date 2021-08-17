@@ -8,6 +8,9 @@ Web Pentesting Fuzz 字典,一个就够了。
 
   **分享字典建议直接提交PR** 
 
+20210608:
+
+* 在rcePayloads字典下添加了一个[Remote Code Execution ( Unix and Windows )](https://ansar0047.medium.com/remote-code-execution-unix-and-windows-4ed3367158b3)中提到的所有Payload。
 
 20201202:
 
@@ -24,15 +27,12 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 20200410:
 
-* 上传了centos和aix的/etc/目录，放在ssrfDict里面，aix和其他系统区别还是蛮大的，实战一下RFI注意区别。
+* 新增centOS和AIX主机的/etc/目录的文件列表，放在ssrfDict目录，实战中遇到的，aix和其他系统区别还是蛮大的，作用自己琢磨。
 
 20200406:
 
 * 合并一个由[lewiswu1209](https://github.com/lewiswu1209)提交的pr，密码top19576。
 
-20200410:
-
-* 新增centOS和AIX主机的/etc/目录的文件列表，放在ssrfDict目录，实战中遇到的，aix和其他系统区别还是蛮大的，作用自己琢磨。
 
 20200221:
 
